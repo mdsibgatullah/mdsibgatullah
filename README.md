@@ -1,5 +1,5 @@
 <!-- banner image starts here  -->
-<img src="./images/bijit-deb.png" width="100%">
+<img src="sibgatullah-fronend-developer.jpg" width="100%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Bijit Deb </h1>
