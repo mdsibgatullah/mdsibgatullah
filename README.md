@@ -1,5 +1,5 @@
 <!-- banner image starts here  -->
-<img src="Md-Sibgatullah-Shopify-Developer-FrontEnd-Developer-frontendengineer.png" width="100%">
+<img src="Md-Sibgatullah-Shopify-Developer-FrontEnd-Developer-frontendengineer.webp" width="100%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Sibgatullah dev </h1>
