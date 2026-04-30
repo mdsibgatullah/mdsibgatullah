@@ -31,7 +31,7 @@ I am a dedicated Computer Engineering student at Kushtia Gurukul(KISI) Institute
   <li><a href="https://www.etipik.com/">ETIPIK</a></li>
   <li><a href="https://www.kyoraiq.com/">KYORAIQ</a></li>
   <li><a href="https://rebeelaashop.com/">RABEELAASOP</a></li>
-  <li><a hre="https://www.g-moto.it/">G-MOTO</a></li>
+  <li><a href="https://www.g-moto.it/">G-MOTO</a></li>
   <li><a href="https://orevio.net/">OREVIO</a></li>
   <li><a href="https://www.4sbrandingco.com/">4SB-BRAND-INGCO</a></li>
   <li><a href="https://www.melchuscanvasandpaper.com/">MELCHUS-CANVAS-AND-PAPER</a></li>
