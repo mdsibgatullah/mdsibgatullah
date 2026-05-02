@@ -2,7 +2,7 @@
 <img src="Md-Sibgatullah-Shopify-Developer-FrontEnd-Developer-frontendengineer.webp" width="100%">
 <!-- banner image ends here  -->
 
-<h1> 👋 Hello, I'm Sibgatullah dev </h1>
+<h1> 👋 Hello, I'm Sibgatullah dev (Shopify Developer) </h1>
 <h3 align="center">I'm an enthusiastic developer focused on crafting web applications and software, with expertise in Frontend development.</h3>
 
 ### 👨‍🏫 &nbsp; About Me
