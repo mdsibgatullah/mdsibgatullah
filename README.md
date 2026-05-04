@@ -20,11 +20,11 @@ I am a dedicated Computer Engineering student at Kushtia Gurukul(KISI) Institute
 
 - 👯 I’m looking to collaborate on [Orebi(eCommerce)](#)
 
-- 👨‍💻 All of my projects are available at ([https://bijitdeb.vercel.app/](https://mdsibgatullah.github.io/Sibgatullah-protfolio/protfolio.html)
+- 👨‍💻 All of my projects are available at (https://mdsibgatullah.github.io/Sibgatullah-protfolio/protfolio.html)
 
 - 📫 How to reach me **Sibgatullah667@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences
 
 <h5>Shopify Figma Projects</h5>
 <ul>
