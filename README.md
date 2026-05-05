@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:sibgatullah667@gmail.com">📧 sibgatullah667@gmail.com</a> &nbsp;|&nbsp;
-  📍 Badda, Dhaka &nbsp;|&nbsp;
+  📍 Mohakhali, Dhaka &nbsp;|&nbsp;
   📞 +8801601706606
 </p>
 
