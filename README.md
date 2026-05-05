@@ -2,49 +2,185 @@
 <img src="Md-Sibgatullah-Shopify-Developer-FrontEnd-Developer-frontendengineer.webp" width="100%">
 <!-- banner image ends here  -->
 
-<h1> 👋 Hello, I'm Sibgatullah dev (Shopify Developer) </h1>
-<h3 align="center">I'm an enthusiastic developer focused on crafting web applications and software, with expertise in Frontend development.</h3>
+<h1 align="center">👋 Hi, I'm Md. Sibgatullah</h1>
+<h3 align="center">Frontend Developer | Shopify Developer | UI Enthusiast</h3>
 
-### 👨‍🏫 &nbsp; About Me
-
-<p align="justify">
-I am a dedicated Computer Engineering student at Kushtia Gurukul(KISI) Institute, Bangladesh.
+<p align="center">
+  <a href="mailto:sibgatullah667@gmail.com">📧 sibgatullah667@gmail.com</a> &nbsp;|&nbsp;
+  📍 Badda, Dhaka &nbsp;|&nbsp;
+  📞 +8801601706606
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sibgatullah667/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mdsibgatullah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mdsibgatullah.github.io/Sibgatullah-protfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
+---
 
-- 🔭 I’m currently working on [My Portfolio]([https://bijitdeb.vercel.app/](https://mdsibgatullah.github.io/Sibgatullah-protfolio/))
+## 🛠️ Skills
 
-- 🌱 I’m currently learning **Shopify Custom Theme building**
+<table>
+  <tr>
+    <td><strong>Frontend Technologies</strong></td>
+    <td>HTML5, CSS3, SCSS/SASS</td>
+  </tr>
+  <tr>
+    <td><strong>CSS Frameworks</strong></td>
+    <td>Tailwind CSS, Bootstrap</td>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>JavaScript, Python</td>
+  </tr>
+  <tr>
+    <td><strong>Core Concepts</strong></td>
+    <td>OOP</td>
+  </tr>
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>GitHub</td>
+  </tr>
+  <tr>
+    <td><strong>CMS</strong></td>
+    <td>Shopify, WordPress</td>
+  </tr>
+  <tr>
+    <td><strong>Templating Language</strong></td>
+    <td>Liquid</td>
+  </tr>
+  <tr>
+    <td><strong>Design Tools</strong></td>
+    <td>Figma, PSD, XD to HTML, Canva, Adobe Photoshop, Adobe Animate</td>
+  </tr>
+  <tr>
+    <td><strong>UI Enhancements</strong></td>
+    <td>View-Transition, Animation</td>
+  </tr>
+</table>
 
-- 👯 I’m looking to collaborate on [Orebi(eCommerce)](#)
+---
 
-- 👨‍💻 All of my projects are available at ([https://bijitdeb.vercel.app/](https://mdsibgatullah.github.io/Sibgatullah-protfolio/protfolio.html)
+## 💼 Professional Experience
 
-- 📫 How to reach me **Sibgatullah667@gmail.com**
+### 🏢 Frontend Developer — [Softvence Agency](https://www.linkedin.com/company/softvence-agency/posts/?feedView=all)
+**May 2025 – Present**
 
-- 📄 Know about my experiences [#](#)
+- Delivered high-quality Shopify projects for worldwide clients, ensuring responsive design, performance, and client satisfaction
+- Resolved complex Shopify issues including dynamic content, sections, blocks, and theme customization across various themes
+- Built custom Shopify themes from scratch, focusing on scalability, clean code, and modern design practices
 
-<h5>Shopify Figma Projects</h5>
-<ul>
-  <li><a href="https://www.etipik.com/">ETIPIK</a></li>
-  <li><a href="https://www.kyoraiq.com/">KYORAIQ</a></li>
-  <li><a href="https://rebeelaashop.com/">RABEELAASOP</a></li>
-  <li><a href="https://www.g-moto.it/">G-MOTO</a></li>
-  <li><a href="https://orevio.net/">OREVIO</a></li>
-  <li><a href="https://www.4sbrandingco.com/">4SB-BRAND-INGCO</a></li>
-  <li><a href="https://www.melchuscanvasandpaper.com/">MELCHUS-CANVAS-AND-PAPER</a></li>
-  <li><a href="https://2460wellness.com/">WELLNESS</a></li>
-  <li><a href="https://parfumo.co.il/">PARFUMO</a></li>
-</ul>
+---
 
-<h5><mark>Raw</mark> HTML, CSS, SCSS/SASS & JS Projects</h5>
-<ul>
-  <li><a href="https://mdsibgatullah.github.io/FlyShopBd-ecommerce/">FLYSHOPBD</a></li>
-  <li><a href="https://mdsibgatullah.github.io/Oxhen/">OXHEN</a></li>
-  <li><a href="https://mdsibgatullah.github.io/Outdoor/">OUTDOOR</a></li>
-  <li><a href="https://mdsibgatullah.github.io/keeron/">KEERON</a></li>
-  <li><a href="https://mdsibgatullah.github.io/E-foundation/">E-FOUNDATION</a></li>
-  <li><a href="https://mdsibgatullah.github.io/eCosmetics/">E-COSMETICS</a></li>
-</ul>
+### 🏢 Software Engineer Intern — [W3 Engineers Ltd.](https://www.linkedin.com/company/w3engineers/posts/?feedView=all)
+**Jan 2025 – May 2025**
+
+- Developed and customized projects using raw coding, focusing on performance and clean code practices
+- Resolved issues across **271+ websites**, improving functionality, performance, and user experience
+- Worked on globally live projects, gaining hands-on experience in real-world problem solving and scalable solutions
+
+---
+
+<table>
+  <tr>
+    <td><img src="assets/1-website-elouofficial48.png" width="100%"></td>
+    <td><img src="assets/2-website-ronitghosh7.png" width="100%"></td>
+    <td><img src="assets/3-star-maykelfitness.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/4-website-boghdadyyi.png" width="100%"></td>
+    <td><img src="assets/5-website-taranaswell.png" width="100%"></td>
+    <td><img src="assets/6-website-usman_atech.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/7-website-jolan_ab.png" width="100%"></td>
+    <td><img src="assets/8-website-ktward33.png" width="100%"></td>
+    <td><img src="assets/9-website-zaidtallib.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/10-website-andrewgallag515.jpg" width="100%"></td>
+    <td><img src="assets/11-website-krupa_apanchal.jpg" width="100%"></td>
+    <td><img src="assets/12-website-sherwoodio.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/13-website-jacobjpinkney.png" width="100%"></td>
+    <td><img src="assets/14-website-odysseus630.png" width="100%"></td>
+    <td><img src="assets/15-website-mirandal23.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/16-website-edar86.png" width="100%"></td>
+    <td><img src="assets/17-website-hiba_khan8.png" width="100%"></td>
+    <td><img src="assets/18-website-seans96.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/19-star-konstadinnos.jpg" width="100%"></td>
+    <td><img src="assets/20-website-bostinlan.png" width="100%"></td>
+    <td><img src="assets/21-website-franklinkool208.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/22-website-viewmybusiness1.png" width="100%"></td>
+    <td><img src="assets/23-website-ismailshafiq528.png" width="100%"></td>
+    <td><img src="assets/24-website-appletree99.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/25-website-milesaheadtenni.png" width="100%"></td>
+    <td><img src="assets/26-website-d_stranacher.png" width="100%"></td>
+    <td><img src="assets/27-website-fadwaelfegrouch.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/28-website-alfamx.png" width="100%"></td>
+    <td><img src="assets/29-website-operomiwa23.png" width="100%"></td>
+    <td><img src="assets/30-website-ramdanhamdaui.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/31-website-easemate.png" width="100%"></td>
+    <td><img src="assets/32-website-phocalstudio.png" width="100%"></td>
+    <td><img src="assets/33-website-jcab118.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/34-website-myomok.jpg" width="100%"></td>
+    <td><img src="assets/35-website-elouofficial48.jpg" width="100%"></td>
+    <td><img src="assets/36-website-a_dopemom.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/36-website2-a_dopemom.png" width="100%"></td>
+    <td><img src="assets/37-website-baltasar_m.png" width="100%"></td>
+    <td><img src="assets/38-website-kchrist2046.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/39-website-golfmats.png" width="100%"></td>
+    <td><img src="assets/40-website-olympicco.png" width="100%"></td>
+    <td><img src="assets/40-website2-olympicco.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/41-website-oneof1studios.png" width="100%"></td>
+    <td><img src="assets/42-website-ivanworsley.png" width="100%"></td>
+    <td><img src="assets/43-website-lidiethpeguero.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/44-website-rebeccaetchu.png" width="100%"></td>
+    <td><img src="assets/45-website-usereb93.png" width="100%"></td>
+    <td><img src="assets/46-website-mgriga21.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/47-website-miriam770.png" width="100%"></td>
+    <td><img src="assets/48-website-....png" width="100%"></td>
+    <td><img src="assets/49-website-....png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/50-website-....png" width="100%"></td>
+    <td><img src="assets/51-website-....png" width="100%"></td>
+    <td><img src="assets/52-website-....png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/53-website-....png" width="100%"></td>
+    <td><img src="assets/54-website-....png" width="100%"></td>
+    <td><img src="assets/55-website-....png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/56-website-....png" width="100%"></td>
+    <td><img src="assets/57-website-....png" width="100%"></td>
+    <td><img src="assets/58-website-....png" width="100%"></td>
+  </tr>
+</table>
