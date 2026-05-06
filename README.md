@@ -82,7 +82,7 @@
 
 ---
 
-<table>
+<!-- <table>
   <tr>
     <td><img src="assets/3-star-maykelfitness.jpg" width="100%"></td>
     <td><img src="assets/19-star-konstadinnos.jpg" width="100%"></td>
@@ -182,4 +182,4 @@
     <td><img src="assets/47-website-miriam770.png" width="100%"></td>
     <td><img src="assets/1-website-elouofficial48.png" width="100%"></td>
   </tr>
-</table>
+</table> -->
