@@ -35,6 +35,10 @@
     <td>JavaScript, Python</td>
   </tr>
   <tr>
+    <td><strong>Frontend Framework</strong></td>
+    <td>React, Next js</td>
+  </tr>
+  <tr>
     <td><strong>Core Concepts</strong></td>
     <td>OOP</td>
   </tr>
