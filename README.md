@@ -3,8 +3,8 @@
 <!-- banner image ends here  -->
 
 <h1 align="center">👋 Hi, I'm Md. Sibgatullah</h1>
-<h3 align="center">Frontend Developer | Shopify Developer | UI Enthusiast</h3>
-
+<h3 align="center">Frontend Developer | Shopify Developer | UI-focused </h3>
+<small align="center"> AI is fast but RAW developer are deep. </small>
 <p align="center">
   <a href="mailto:sibgatullah667@gmail.com">📧 sibgatullah667@gmail.com</a> &nbsp;|&nbsp;
   📍 Mohakhali, Dhaka &nbsp;|&nbsp;
@@ -121,15 +121,16 @@
       <td><a href="https://www.4sbrandingco.com/">4SB-BRANDING-CO</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td><a href="https://mdsibgatullah.github.io/after-before-image-slider/">BEFORE-AFTER-SLIDER</a></td>
       <td><a href="https://www.melchuscanvasandpaper.com/">MELCHUS-CANVAS-AND-PAPER</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td><a href="https://mdsibgatullah.github.io/search-engine/">SEARCH ENGINE</a></td>
       <td><a href="https://2460wellness.com/">WELLNESS</a></td>
     </tr>
     <tr>
       <td></td>
+      <td><a href="https://mdsibgatullah.github.io/Sibgatullah-protfolio/">PORTFOLIO</a></td>
       <td><a href="https://parfumo.co.il/">PARFUMO</a></td>
     </tr>
   </tbody>
