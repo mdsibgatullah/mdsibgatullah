@@ -129,9 +129,12 @@
       <td><a href="https://2460wellness.com/">WELLNESS</a></td>
     </tr>
     <tr>
-      <td></td>
       <td><a href="https://mdsibgatullah.github.io/Sibgatullah-protfolio/">PORTFOLIO</a></td>
       <td><a href="https://parfumo.co.il/">PARFUMO</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mdsibgatullah?tab=repositories">OTHERS</a></td>
+      <td><a href="https://github.com/mdsibgatullah?tab=repositories">OTHER</a></td>
     </tr>
   </tbody>
 </table>
