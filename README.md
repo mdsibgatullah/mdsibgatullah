@@ -86,6 +86,57 @@
 
 ---
 
+## My Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>🟣 Raw HTML, CSS, SCSS/SASS & JS Projects</th>
+      <th>🟢 Shopify Figma Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://mdsibgatullah.github.io/FlyShopBd-ecommerce/">FLYSHOPBD</a></td>
+      <td><a href="https://www.etipik.com/">ETIPIK</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://mdsibgatullah.github.io/Oxhen/">OXHEN</a></td>
+      <td><a href="https://www.kyoraiq.com/">KYORAIQ</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://mdsibgatullah.github.io/Outdoor/">OUTDOOR</a></td>
+      <td><a href="https://rebeelaashop.com/">RABEELAASHOP</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://mdsibgatullah.github.io/keeron/">KEERON</a></td>
+      <td><a href="https://www.g-moto.it/">G-MOTO</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://mdsibgatullah.github.io/E-foundation/">E-FOUNDATION</a></td>
+      <td><a href="https://orevio.net/">OREVIO</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://mdsibgatullah.github.io/eCosmetics/">E-COSMETICS</a></td>
+      <td><a href="https://www.4sbrandingco.com/">4SB-BRANDING-CO</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://www.melchuscanvasandpaper.com/">MELCHUS-CANVAS-AND-PAPER</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://2460wellness.com/">WELLNESS</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://parfumo.co.il/">PARFUMO</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 <table>
   <tr>
     <td><img src="assets/3-star-maykelfitness.jpg" width="100%"></td>
