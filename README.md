@@ -86,7 +86,7 @@
 
 ---
 
-## My Projects
+## Projects
 
 <table>
   <thead>
