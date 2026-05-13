@@ -85,6 +85,11 @@
 - Worked on globally live projects, gaining hands-on experience in real-world problem solving and scalable solutions
 
 ---
+## 🛠 Shopify Theme Bug Fixing & Customization
+
+📄 Bug Report & Task Sheet: 
+[View Google Spreadsheet](https://docs.google.com/spreadsheets/d/1BDItIL80ASkQZZjv1uAZgg27nynjgofibxqp4PawKLY/edit?gid=0#gid=0)
+---
 
 ## Projects
 
