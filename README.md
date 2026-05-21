@@ -9,7 +9,7 @@
   <a href="mailto:sibgatullah667@gmail.com">📧 sibgatullah667@gmail.com</a> &nbsp;|&nbsp;
   📍 Mohakhali, Dhaka &nbsp;|&nbsp;
   📞 +8801601706606
-</p>
+</p> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sibgatullah667/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
