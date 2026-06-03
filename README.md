@@ -68,7 +68,7 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Frontend Developer — [Softvence Agency](https://www.linkedin.com/company/softvence-agency/posts/?feedView=all)
+### 🏢 Frontend Developer (Shopify) — [Softvence Agency](https://www.linkedin.com/company/softvence-agency/posts/?feedView=all)
 **May 2025 – Present**
 
 - Delivered high-quality Shopify projects for worldwide clients, ensuring responsive design, performance, and client satisfaction
