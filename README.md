@@ -24,7 +24,11 @@
 <table>
   <tr>
     <td><strong>Frontend Technologies</strong></td>
-    <td>HTML5, CSS3, SCSS/SASS</td>
+    <td>HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td><strong>CSS Preprocessor</strong></td>
+    <td>SCSS/SASS</td>
   </tr>
   <tr>
     <td><strong>CSS Frameworks</strong></td>
@@ -32,11 +36,11 @@
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
-    <td>JavaScript, Python</td>
+    <td>JavaScript (ES6+), Python</td>
   </tr>
   <tr>
-    <td><strong>Frontend Framework</strong></td>
-    <td>React, Next js</td>
+    <td><strong>Frontend Frameworks</strong></td>
+    <td>React js, Next js</td>
   </tr>
   <tr>
     <td><strong>Core Concepts</strong></td>
@@ -44,7 +48,7 @@
   </tr>
   <tr>
     <td><strong>Version Control</strong></td>
-    <td>GitHub</td>
+    <td>Git, GitHub</td>
   </tr>
   <tr>
     <td><strong>CMS</strong></td>
@@ -56,11 +60,15 @@
   </tr>
   <tr>
     <td><strong>Design Tools</strong></td>
-    <td>Figma, PSD, XD to HTML, Canva, Adobe Photoshop, Adobe Animate</td>
+    <td>Canva, Adobe Photoshop, Adobe Animate</td>
+  </tr>
+  <tr>
+    <td><strong>Design Conversion</strong></td>
+    <td>Figma, PSD, XD & other</td>
   </tr>
   <tr>
     <td><strong>UI Enhancements</strong></td>
-    <td>View-Transition, Animation</td>
+    <td>View Transitions, Animations</td>
   </tr>
 </table>
 
@@ -80,9 +88,9 @@
 ### 🏢 Software Engineer Intern — [W3 Engineers Ltd.](https://www.linkedin.com/company/w3engineers/posts/?feedView=all)
 **Jan 2025 – May 2025**
 
-- Developed and customized projects using raw coding, focusing on performance and clean code practices
-- Resolved issues across **271+ websites**, improving functionality, performance, and user experience
-- Worked on globally live projects, gaining hands-on experience in real-world problem solving and scalable solutions
+- Developed custom frontend projects with responsive design, clean code practices, and performance optimization at **W3 Engineers Ltd.**
+- Resolved issues across **271+ websites**, improving functionality, UI development, and user experience.
+- Worked on globally live projects, gaining experience in scalable solutions, API integration, and version control workflows. [Rico](https://rico-dev-4.myshopify.com/)
 
 ---
 
@@ -97,7 +105,7 @@
 <table>
   <thead>
     <tr>
-      <th>🟣 Raw HTML, CSS, SCSS/SASS & JS Projects</th>
+      <th>🟣 Raw HTML5, CSS3, SCSS/SASS & JS Projects</th>
       <th>🟢 Shopify Figma Projects</th>
     </tr>
   </thead>
