@@ -81,7 +81,7 @@
 
 - Delivered high-quality Shopify projects for worldwide clients, ensuring responsive design, performance, and client satisfaction
 - Resolved complex Shopify issues including dynamic content, sections, blocks, and theme customization across various themes
-- Built custom Shopify themes from scratch, focusing on scalability, clean code, and modern design practices
+- Built custom Shopify themes from scratch, focusing on scalability, clean code, and modern design practices [Rico](https://rico-dev-4.myshopify.com/)
 
 ---
 
@@ -90,7 +90,7 @@
 
 - Developed custom frontend projects with responsive design, clean code practices, and performance optimization at **W3 Engineers Ltd.**
 - Resolved issues across **271+ websites**, improving functionality, UI development, and user experience.
-- Worked on globally live projects, gaining experience in scalable solutions, API integration, and version control workflows. [Rico](https://rico-dev-4.myshopify.com/)
+- Worked on globally live projects, gaining experience in scalable solutions, API integration, and version control workflows.
 
 ---
 
